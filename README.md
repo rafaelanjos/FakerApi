@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # FakerApi
 API built with FastApi that uses Faker to generate fake data to support automatic tests
 
@@ -38,9 +41,7 @@ Redoc
 License
 -------
 
-Faker is released under the MIT License. See the bundled `LICENSE`_ file
-for details.
-
+Faker is released under the MIT License. See the bundled [LICENSE](LICENSE) for details.
 
 Important Notice for Users
 -------
