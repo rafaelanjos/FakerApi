@@ -42,6 +42,8 @@ Samples
 
 POST http://127.0.0.1:8000/dinamico
 
+
+```
 {
 	"nome":"{{nome}}",
 	"documento":"{{cpf:mask}}",
@@ -53,6 +55,7 @@ POST http://127.0.0.1:8000/dinamico
 	"cnh":"{{cnh:mask}}",
 	"data":"{{hoje:dd/MM/yyyy hh:mm:ss}}"
 }
+```
 
 Formatações para o campo hoje
 
